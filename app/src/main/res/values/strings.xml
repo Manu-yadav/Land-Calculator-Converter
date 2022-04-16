@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Land Calculator &amp; Converter</string>
+
+    <string name="facebook_text"><u>"@its.android.talk"</u></string>
+    <string name="insta_text"><u>"@developer_android_app"</u></string>
+    <string name="all_our_aps"><u>"All our apps"</u></string>
+    <string name="message">"To Learn Android Application Development. Please Click On Below Links: "</string>
+</resources>
